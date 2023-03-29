@@ -13,7 +13,8 @@ int main()
     //cout = standard output
     // << = take this to the standard out
     // \n line break
-    std::cout << "Hello World!\n";
+    //std::cout << "Hello World!\n";
+    std::cout << "Git\n";
 
     int anotherInt = 13;
     //* = pointer to another variable
@@ -26,7 +27,6 @@ int main()
     *ptrChar = 'a';
     *(ptrChar + 300) = 'a';
     ptrChar = 0;
-    *ptrChar = 'x';
 }
 
 //stack = dynamic memory = first-in last-out
