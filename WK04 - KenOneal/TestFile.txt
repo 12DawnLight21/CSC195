@@ -1,0 +1,19 @@
+
+1e6
+Fins: 8
+Teeth: 7
+1dave2
+Fins: 9
+Teeth: 10
+2micheal10
+Eggs: 4
+Wingspan: 12
+1e6
+Fins: 8
+Teeth: 7
+1dave2
+Fins: 9
+Teeth: 10
+2micheal10
+Eggs: 4
+Wingspan: 12

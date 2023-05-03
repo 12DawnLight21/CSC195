@@ -1,6 +1,5 @@
 #include "myInput.h"
 
-
 int myInput::GetUserInt(string prompt, unsigned short low, unsigned short high) {
 	int iTemp = 0;
 	do {
